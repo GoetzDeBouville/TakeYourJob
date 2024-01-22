@@ -1,5 +1,8 @@
 # Дипломный проект Яндекс.Практикума по курсу "Android-разработчик"
 
+Screencast:
+https://www.youtube.com/watch?v=_3nTWs7FY7M&ab_channel=Zinchenko
+
 Проект представляет собой стартовую точку для разработки дипломного проекта Яндекс.Практикума по
 курсу ["Android-разработчик"](https://practicum.yandex.ru/android-developer/).
 
