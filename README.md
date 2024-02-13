@@ -8,8 +8,8 @@
 TakeYourJob app is using [HeadHunter API](https://dev.hh.ru/) <br>
 The app is created as diploma project.<br>
 Implemented options for searching for vacancies (with a custom filters by location, industry, salary), collect/remove vacancies from favorites, view details of an individual vacancy, change the application theme
-
-Stack: 
+<br>
+### Stack: 
 - [Android Studio](https://developer.android.com/studio/intro)
 - Coroutines + Flow
 - Arcitecture: MVVM+StateFlow, Single Activity + Android Navigation
