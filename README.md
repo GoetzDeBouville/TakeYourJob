@@ -12,7 +12,7 @@ Implemented options to search vacancies (with a custom filters by location, indu
 Stack: 
 - [Android Studio](https://developer.android.com/studio/intro)
 - Coroutines + Flow
-- Arcitecture: MVVM, Single Activity + Android Navigation
+- Arcitecture: MVVM+StateFlow, Single Activity + Android Navigation
 - DB: Room Persistent Library
 - Network: Retrofit2
 - DI - Hilt
@@ -44,8 +44,8 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Contributors 📢
 
-<a href="https://github.com/GoetzDeBouville/PlaylistMaker/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=GoetzDeBouville/PlaylistMaker"/>
+<a href="https://github.com/GoetzDeBouville/TakeYourJob/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=GoetzDeBouville/TakeYourJob"/>
 </a>
 
 
@@ -61,8 +61,8 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 Screencast:
 https://www.youtube.com/watch?v=_3nTWs7FY7M&ab_channel=Zinchenko
 
-Проект представляет собой стартовую точку для разработки дипломного проекта Яндекс.Практикума по
-курсу ["Android-разработчик"](https://practicum.yandex.ru/android-developer/).
+
+
 
 # Предварительная настройка проекта
 
