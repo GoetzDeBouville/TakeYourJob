@@ -45,7 +45,7 @@ hhAccessToken=my_access_token
 Instead of `my_access_token` insert the HeadHunter API access token received after registration (point 2). After changing the value
 synchronize the project.
 
-File the `develop.properties` is ignoring by default.
+File `develop.properties` is ignoring by default.
 Values, texted into `develop.properties` file will be added to ypur app on building process that calls `BuildConfig` ([read](https://developer.android.com/build/gradle-tips#share-custom-fields-and-resource-values-with-your-app-code))
 
 4. Set up your Android device/emulator/simulator.
