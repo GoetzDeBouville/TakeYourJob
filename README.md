@@ -142,10 +142,11 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 
 <br>
-<br>
+
 # Предварительная настройка проекта
 
 <br>
+
 ## Добавление секретного токена для API HeadHunter
 
 Для проброса секретного токена, полученных после регистрации приложения для использования API HeadHunter, создайте в
