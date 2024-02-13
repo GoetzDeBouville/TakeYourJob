@@ -1,4 +1,62 @@
-# Дипломный проект Яндекс.Практикума по курсу "Android-разработчик"
+# Take Your Job
+## Diploma at Yandex.Practicum course
+
+![badge-Android](https://img.shields.io/badge/Platform-Android-brightgreen)
+[![Kotlin](https://img.shields.io/badge/Kotlin-1.9.21-blue.svg?style=flat&logo=kotlin)](https://kotlinlang.org)
+[![Kotlin](https://img.shields.io/badge/Hilt-2.49-red.svg?style=flat&logo=kotlin)](https://kotlinlang.org)
+
+PlaylistMaker app using [HeadHunter API](https://dev.hh.ru/) <br>
+The app is created as diploma project.
+Implemented options to search vacancies (with a custom filters by location, industry, salary), collect/remove vacancies from device, change the application theme
+
+Stack: 
+- [Android Studio](https://developer.android.com/studio/intro)
+- Coroutines + Flow
+- Arcitecture: MVVM, Single Activity + Android Navigation
+- DB: Room Persistent Library
+- Network: Retrofit2
+- DI - Hilt
+- Coil
+
+Screencast 
+
+[![](https://img.shields.io/badge/YouTube-0077B5?style=for-the-badge&logo=youtube&logoColor=red)](https://youtu.be/_3nTWs7FY7M?si=B-WMj_Vu6cNEYwx5)
+
+
+## Getting Started 🛠
+
+1. Clone this repository to your local machine.
+    ```text
+    git clone https://github.com/GoetzDeBouville/PlaylistMaker.git
+    ```
+
+2. Open the project in Android Studio.
+
+3. Set up your Android device/emulator/simulator.
+
+4. Build and run the project.
+
+
+## Contributing :writing_hand:
+
+Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+
+## Contributors 📢
+
+<a href="https://github.com/GoetzDeBouville/PlaylistMaker/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=GoetzDeBouville/PlaylistMaker"/>
+</a>
+
+
+### Contact with me  📬
+
+<p align="left">
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksey-zinchenko-9b3760252/)
+[![](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/heoderer)
+[![](https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/double.conscience)
+</p>
 
 Screencast:
 https://www.youtube.com/watch?v=_3nTWs7FY7M&ab_channel=Zinchenko
