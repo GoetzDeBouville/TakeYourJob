@@ -23,6 +23,9 @@ Stack:
 
 [![](https://img.shields.io/badge/YouTube-0077B5?style=for-the-badge&logo=youtube&logoColor=red)](https://youtu.be/_3nTWs7FY7M?si=B-WMj_Vu6cNEYwx5)
 
+<img src="./screenshots/001.gif" width="240" height="480">    <img src="./screenshots/002.gif" width="240" height="480">
+<img src="./screenshots/003.gif" width="240" height="480">    <img src="./screenshots/004.gif" width="240" height="480">
+<img src="./screenshots/005.gif" width="240" height="480">
 
 ## Getting Started 🛠
 
