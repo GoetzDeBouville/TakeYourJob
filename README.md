@@ -134,7 +134,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 </a>
 
 
-### Contact with me  📬
+### Contact me  📬
 
 <p align="left">
 
