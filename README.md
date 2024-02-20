@@ -48,9 +48,9 @@ synchronize the project.
 File `develop.properties` is ignoring by default.
 Values, texted into `develop.properties` file will be added to ypur app on building process that calls `BuildConfig` ([read](https://developer.android.com/build/gradle-tips#share-custom-fields-and-resource-values-with-your-app-code))
 
-4. Set up your Android device/emulator/simulator.
+5. Set up your Android device/emulator/simulator.
 
-5. Build and run the project.
+6. Build and run the project.
 
 ## Static analysis
 
