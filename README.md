@@ -1,7 +1,7 @@
 # Take Your Job
 ## Diploma project at Yandex.Practicum course
 
-![badge-Android](https://img.shields.io/badge/Platform-Android-brightgreen)
+![badge-Android](https://img.shields.io/badge/Platform-Android-brightgreen?logo=android)
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.21-blue.svg?style=flat&logo=kotlin)](https://kotlinlang.org)
 [![Hilt](https://img.shields.io/badge/Hilt-2.49-red.svg?style=flat&logo=Hilt)](https://dagger.dev/hilt/)
 
